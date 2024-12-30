@@ -36,4 +36,6 @@ Authentication: bcrypt
 6️⃣ Access the Hosted Version:- No need to run locally? Visit the live app: 👉 https://moviesbott.streamlit.app/
 
 🤝 Contributions:- Feel free to fork and contribute to this project. Pull requests are always welcome!
+
+
 📞 Contact For any inquiries, feel free to reach out at [giraser777gmail.com].
